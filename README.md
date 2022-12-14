@@ -1,10 +1,4 @@
-<center>
-<strong>
-Polymorphism with [Radix UI Slot](https://www.radix-ui.com/docs/primitives/utilities/slot) and use of  the [classNames library](https://www.npmjs.com/package/classnames)
-</strong>
-
-<img src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" alt="drawing" width="100"/>
-</center>
+### Polymorphism with Radix UI Slot (https://www.radix-ui.com/docs/primitives/utilities/slot) and use of the classNames library (https://www.npmjs.com/package/classnames)
 
 #### Radix
 
